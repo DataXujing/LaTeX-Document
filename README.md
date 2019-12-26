@@ -22,8 +22,11 @@
 
 ## 使用说明
 
-## 视频教程
+### 视频教程(点击图片即可)
+- YouTube
 [![IMAGE ALT TEXT HERE](https://imgkr.cn-bj.ufileos.com/f3f4f4a9-6922-4d27-a551-98393b96238f.jpg)](https://youtu.be/9C04dDh2Msk)
+- 哔哩哔哩
+[![IMAGE ALT TEXT HERE](https://imgkr.cn-bj.ufileos.com/f3f4f4a9-6922-4d27-a551-98393b96238f.jpg)](https://www.bilibili.com/video/av80723849/)
 
 `git clone git@github.com:MatNoble/LaTeX-Document.git` 到本地即可使用.
 
